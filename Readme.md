@@ -1,64 +1,42 @@
-## 👋 Merhaba! Ben Taha Bayraktar
+<h2 align="center">👋 Merhaba, ben Taha Bayraktar</h2>
 
-**Java Backend Developer**  
-Backend odaklı geliştirici – temiz mimari, güvenlik odaklı, production ready sistemler.
+<p align="center">
+  Backend geliştirmeye odaklanan <b>Java Developer</b><br/>
+  Güvenli, sürdürülebilir ve üretime hazır sistemler
+</p>
 
-📍 Malatya, Türkiye  
-🎯 Amacım: Ölçeklenebilir, sürdürülebilir ve güvenli backend çözümleri üretmek.
-
----
-
-## 🌐 Hakkımda
-
-Ben Taha Bayraktar – backend geliştirmeye tutkuyla bağlı bir bilgisayar mühendisiyim.  
-Kendi projelerimde **Spring Boot**, **PostgreSQL**, **REST API** gibi teknolojilerle  
-gerçek dünyaya uygun backend sistemler geliştiriyorum.  [oai_citation:1‡tahabayraktar.com](https://tahabayraktar.com/?utm_source=chatgpt.com)
-
----
-
-## 🧠 Teknik Yetenekler
-
-### 🚀 Backend
-- Java, Spring Boot
-- RESTful API tasarımı
-- JWT & Auth mekanizmaları
-- Unit & integration testing
-
-### 🛢️ Database
-- PostgreSQL
-- Query ve schema optimizasyonu
-
-### 📦 Deployment / DevOps
-- Docker temelli geliştirme
-- CI/CD pipeline mantığı
+<p align="center">
+  <a href="https://linkedin.com/in/taha-bayraktar-2322b3258">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tahabayraktar.com">
+    <img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📌 Öne Çıkan Projeler
+### 🧠 Hakkımda
+Backend geliştirme benim için sadece çalışan kod yazmak değil;  
+**güvenli**, **bakımı kolay** ve **gerçek dünyada sorunsuz çalışan** sistemler tasarlamak demek.
 
-### 🏆 Inufest Backend
-- Çeşitli rol ve yetki bazlı JWT auth
-- Admin panel backend
-- PostgreSQL ile schema ve veri ilişkileri
-- Clean architecture odaklı tasarım
-
-### 🗂 Dershanet API
-- Sosyal feed & notification sistemi
-- Günlük backend operasyonak ihtiyaçlarına odaklı API
-
-*(README içeriğini her projeye göre detaylandırabilirim!)*
+Spring Boot ve PostgreSQL ile ölçeklenebilir backend yapıları geliştiriyor,  
+JWT tabanlı kimlik doğrulama, rol bazlı yetkilendirme ve clean architecture prensiplerini ön planda tutuyorum.
 
 ---
 
-## 📫 İletişim & Sosyal
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-bayraktar-2322b3258)  
-[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://tahabayraktar.com)
+### 🛠 Odaklandığım Teknolojiler
+- **Java**, **Spring Boot**
+- **RESTful API** tasarımı
+- **JWT (access / refresh)** ile authentication
+- **PostgreSQL** & veri modelleme
+- **Docker** ve temel CI/CD yaklaşımı
 
 ---
 
-## 💡 Kişisel
-- Yazılım geliştirmek
-- Yüzmek
-- Bilgisayar oyunları  
-*(Bu beni ben yapan küçük tutkular ✨)*  [oai_citation:2‡tahabayraktar.com](https://tahabayraktar.com/?utm_source=chatgpt.com)
+### 🚀 Yaklaşımım
+- Okunabilir ve sürdürülebilir kod
+- Security-first backend tasarımı
+- Production ortamını düşünerek geliştirme
+
+> Önce doğru mimari, sonra kod.
