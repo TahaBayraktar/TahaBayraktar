@@ -12,10 +12,18 @@
 </p>
 
 <p align="center">
-  📫 <a href="mailto:thbayraktar782@gmail.com">thbayraktar782@gmail.com</a><br/>
-  🌐 <a href="https://tahabayraktar.com">tahabayraktar.com</a><br/>
-  💼 <a href="https://linkedin.com/in/taha-bayraktar-2322b3258">linkedin.com/in/taha-bayraktar</a><br/>
-  📸 <a href="https://instagram.com/tahexis">instagram.com/tahexis</a>
+  <a href="mailto:thbayraktar782@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thbayraktar782@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tahabayraktar.com">
+    <img src="https://img.shields.io/badge/Website-tahabayraktar.com-000000?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/taha-bayraktar-2322b3258">
+    <img src="https://img.shields.io/badge/LinkedIn-Taha%20Bayraktar-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tahexis">
+    <img src="https://img.shields.io/badge/Instagram-tahexis-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
