@@ -12,18 +12,9 @@
 </p>
 
 <p align="center">
-  📫 <a href="mailto:contact@tahabayraktar.com">thbayraktar782@gmail.com</a>
-</p>
-
-<p align="center">
-  🌐 <a href="https://tahabayraktar.com">tahabayraktar.com</a>
-</p>
-
-<p align="center">
-  💼 <a href="https://linkedin.com/in/taha-bayraktar-2322b3258">linkedin.com/in/taha--bayraktar</a>
-</p>
-
-<p align="center">
+  📫 <a href="mailto:thbayraktar782@gmail.com">thbayraktar782@gmail.com</a><br/>
+  🌐 <a href="https://tahabayraktar.com">tahabayraktar.com</a><br/>
+  💼 <a href="https://linkedin.com/in/taha-bayraktar-2322b3258">linkedin.com/in/taha-bayraktar</a><br/>
   📸 <a href="https://instagram.com/tahexis">instagram.com/tahexis</a>
 </p>
 
