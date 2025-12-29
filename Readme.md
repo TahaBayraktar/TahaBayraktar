@@ -51,16 +51,14 @@ Projelerimi incelemek için [web siteme](https://tahabayraktar.com) göz atabili
 <br/>
 <h2>🧰 Languages & Tools</h2>
 
+<!-- Backend Stack -->
 <code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
 <code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-
-<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-
-<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
-<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="pgAdmin"></code>
 
 ---
 
