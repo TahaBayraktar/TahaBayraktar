@@ -33,14 +33,18 @@
 
 ---
 
+---
+
 ## Hakkımda 🙂
 
-- *A **backend-focused software developer** who cares about **clean architecture** and **production-ready systems***
-- ***Security-first** mindset — authentication, authorization, and data integrity matter*
-- ***Enjoys building** scalable APIs with **Java, Spring Boot & PostgreSQL***
-- *Always **learning, refactoring**, and improving system design*
+- **Backend sistemlerini** sıfırdan tasarlayıp kurmayı; katmanlı mimari, sürdürülebilirlik ve temiz kod prensipleriyle geliştirmeyi seviyorum.  
+- **Veritabanı tasarımı ve modelleme** süreçlerinde; ilişkiler, indeksler, constraint’ler ve performans odaklı çözümler üretmeye önem veriyorum.  
+- **API tabanlı projeler** geliştiriyor; RESTful servisler, veri akışı ve servisler arası iletişim üzerine çalışıyorum.  
+- Geliştirdiğim projeleri **sunucu ortamına taşıyarak** (deployment) canlı sistemlerde çalışır hale getiriyorum.  
+- **Güvenlik** benim için önemli bir konu: kimlik doğrulama, yetkilendirme ve veri bütünlüğü konularında dikkatli ilerliyorum.  
+- Sürekli öğrenen, mevcut kodu **iyileştirmeyi ve refactor etmeyi** seven bir geliştiriciyim.
 
-You can find more about me on my [website](https://tahabayraktar.com) or explore my repositories below.
+Projelerimi incelemek için [web siteme](https://tahabayraktar.com) göz atabilir veya GitHub üzerindeki repolarımı keşfedebilirsin.
 
 ---
 
