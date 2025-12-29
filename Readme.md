@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;API-driven+Systems;Production-ready+Code;Systems+That+Scale"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Database+Design+%26+Modeling;Backend+APIs+%26+Services;Production-ready+Code;Systems+That+Scale"
     alt="Typing SVG"
   />
 </p>
