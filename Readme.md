@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/tahaBayraktar" width="140" style="border-radius:50%" />
 </p>
 
-<h2 align="center">Hey there 👋, I'm Taha Bayraktar</h2>
+<h2 align="center">Selam 👋, Ben Taha Bayraktar</h2>
 
 <p align="center">
   <img 
