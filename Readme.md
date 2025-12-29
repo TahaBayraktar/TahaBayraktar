@@ -26,15 +26,33 @@
   </a>
 </p>
 
-
-## **Hey** 👋, **I'm Taha Bayraktar**
+---
 
 ## About Me 🙂
+
 - *A **backend-focused software developer** who cares about **clean architecture** and **production-ready systems***
 - ***Security-first** mindset — authentication, authorization, and data integrity matter*
 - ***Enjoys building** scalable APIs with **Java, Spring Boot & PostgreSQL***
 - *Always **learning, refactoring**, and improving system design*
 
-#### You can find more about me on my [website](https://tahabayraktar.com) or explore my repositories below.
+You can find more about me on my [website](https://tahabayraktar.com) or explore my repositories below.
+
+---
 
 <br/>
+<h2>🧰 Languages & Tools</h2>
+
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
+<code><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+
+---
+
+### ⭐ If you like what you see, feel free to explore my repositories and drop a star.
