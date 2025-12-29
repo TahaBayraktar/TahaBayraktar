@@ -26,6 +26,11 @@
   </a>
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahaBayraktar&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+</p>
+
 ---
 
 ## About Me 🙂
