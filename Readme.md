@@ -33,7 +33,7 @@
 
 ---
 
-## About Me 🙂
+## Hakkımda 🙂
 
 - *A **backend-focused software developer** who cares about **clean architecture** and **production-ready systems***
 - ***Security-first** mindset — authentication, authorization, and data integrity matter*
