@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/tahaBayraktar" width="140" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/TahaBayraktar/TahaBayraktar/main/Assets/Bitmoji.jpeg" width="140" style="border-radius:50%" />
 </p>
 
 <h2 align="center">Selam 👋, Ben Taha Bayraktar</h2>
