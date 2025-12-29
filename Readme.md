@@ -62,4 +62,4 @@ Projelerimi incelemek için [web siteme](https://tahabayraktar.com) göz atabili
 
 ---
 
-### ⭐ If you like what you see, feel free to explore my repositories and drop a star.
+### 🤝 Birlikte çalışmak istersen, iletişim bilgilerim üzerinden benimle iletişime geçebilirsin.
