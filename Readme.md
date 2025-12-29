@@ -26,4 +26,15 @@
   </a>
 </p>
 
+
+## **Hey** 👋, **I'm Taha Bayraktar**
+
+## About Me 🙂
+- *A **backend-focused software developer** who cares about **clean architecture** and **production-ready systems***
+- ***Security-first** mindset — authentication, authorization, and data integrity matter*
+- ***Enjoys building** scalable APIs with **Java, Spring Boot & PostgreSQL***
+- *Always **learning, refactoring**, and improving system design*
+
+#### You can find more about me on my [website](https://tahabayraktar.com) or explore my repositories below.
+
 <br/>
