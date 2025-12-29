@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="mailto:thbayraktar782@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-—-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
   <a href="https://tahabayraktar.com">
-    <img src="https://img.shields.io/badge/WEBSITE-—-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://linkedin.com/in/taha-bayraktar-2322b3258">
-    <img src="https://img.shields.io/badge/LINKEDIN-—-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="https://github.com/tahaBayraktar">
-    <img src="https://img.shields.io/badge/GITHUB-—-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
 </p>
 
